@@ -1,0 +1,12 @@
+public class myfirstprogram()
+{
+public staic void main(Strings args[])
+
+{
+String man= "Thabang";
+String woman="Kemble";
+System.out.println(man + "and" + woman+"are married");
+
+}
+
+}
